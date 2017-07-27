@@ -2,6 +2,7 @@
 # about: -
 # version: 1.0
 # authors: Kaja & Jen
+# url: https://github.com/berlindiamonds/basic-sync-plugin
 
 require 'sidekiq'
 
@@ -13,7 +14,7 @@ after_initialize do
 
   Backup.class_eval do
     def after_create_hook
-      Jobs.enqueue(:sync_backups) 
+      Jobs.enqueue(:sync_backups)
     end
   end
 end

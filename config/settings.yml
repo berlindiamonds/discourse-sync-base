@@ -1,7 +1,3 @@
 plugins:
-  discourse_basic_sync_plugin_enabled:
+  discourse_sync_base_enabled:
     default: false
-  discourse_basic_sync_plugin_quantity:
-    default: 5
-  discourse_basic_sync_plugin_api_key:
-    default: ''

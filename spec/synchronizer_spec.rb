@@ -1,3 +1,4 @@
+require_relative '../lib/synchronizer.rb'
 describe Synchronizer do
 
   class TestSynchronizer < Synchronizer

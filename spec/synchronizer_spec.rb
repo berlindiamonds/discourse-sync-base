@@ -1,4 +1,4 @@
-require './lib/synchronizer.rb'
+require 'rails_helper'
 describe Synchronizer do
 
   class TestSynchronizer < Synchronizer

@@ -5,7 +5,8 @@
 3. Use this basic sync plugin for other plugins for a backup to a privider of your choice:
 
 - [Discourse Sync To Google Drive](https://github.com/berlindiamonds/discourse-sync-to-googledrive)
-- [Discourse Sync To Dropbox](https://github.com/xfalcox/discourse-backups-to-dropbox)
+- [Discourse Sync To Dropbox](https://github.com/xfalcox/discourse-sync-to-dropbox)
+- [Discourse Sync To Nextcloud](https://github.com/berlindiamonds/discourse-sync-to-nextcloud)
 
 # If you are building your own backup provider plugin for discourse:
 

@@ -1,0 +1,3 @@
+it:
+  site_settings:
+    discourse_sync_base_enabled: "Questo è il plugin base da utilizzare con gli altri plugin fornitori di backup per Discourse"
